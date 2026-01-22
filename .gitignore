@@ -1,0 +1,12 @@
+# Sécurité : NE JAMAIS ENVOYER LES SECRETS
+.env
+
+# Configuration serveur Synology / Web Station
+.htaccess
+@eaDir/
+Thumbs.db
+.DS_Store
+
+# Logs et fichiers temporaires
+*.log
+tmp/
